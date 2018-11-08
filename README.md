@@ -1,5 +1,5 @@
 # GCI-NewRepo
-# My Profie
+# My Profile
 I am BSR Rajeswari.I am studying **PUC-2** in **_RGUKT_** **NUZVID**.My father **passed away** few years back.My mother is a *Tailor*.
 I have a sister.She is studying **Ninth standard**.My hobbies are **drawing** , **painting** , **listening music**.I am very fond of chocolates.
 # Something about GCI contest
